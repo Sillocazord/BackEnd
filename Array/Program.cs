@@ -7,6 +7,3 @@ for(int i = 0; i < carros.Length ; i++){
 }
 
 Console.WriteLine($"Os carros cadastrados são: {carros[0]}, {carros[1]}, {carros[2]} ");
-
-
-
