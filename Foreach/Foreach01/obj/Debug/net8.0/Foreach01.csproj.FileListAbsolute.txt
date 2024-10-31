@@ -1,0 +1,15 @@
+C:\Users\59963156886\Desktop\BackEnd\Foreach\Foreach01\bin\Debug\net8.0\Foreach01.exe
+C:\Users\59963156886\Desktop\BackEnd\Foreach\Foreach01\bin\Debug\net8.0\Foreach01.deps.json
+C:\Users\59963156886\Desktop\BackEnd\Foreach\Foreach01\bin\Debug\net8.0\Foreach01.runtimeconfig.json
+C:\Users\59963156886\Desktop\BackEnd\Foreach\Foreach01\bin\Debug\net8.0\Foreach01.dll
+C:\Users\59963156886\Desktop\BackEnd\Foreach\Foreach01\bin\Debug\net8.0\Foreach01.pdb
+C:\Users\59963156886\Desktop\BackEnd\Foreach\Foreach01\obj\Debug\net8.0\Foreach01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\59963156886\Desktop\BackEnd\Foreach\Foreach01\obj\Debug\net8.0\Foreach01.AssemblyInfoInputs.cache
+C:\Users\59963156886\Desktop\BackEnd\Foreach\Foreach01\obj\Debug\net8.0\Foreach01.AssemblyInfo.cs
+C:\Users\59963156886\Desktop\BackEnd\Foreach\Foreach01\obj\Debug\net8.0\Foreach01.csproj.CoreCompileInputs.cache
+C:\Users\59963156886\Desktop\BackEnd\Foreach\Foreach01\obj\Debug\net8.0\Foreach01.sourcelink.json
+C:\Users\59963156886\Desktop\BackEnd\Foreach\Foreach01\obj\Debug\net8.0\Foreach01.dll
+C:\Users\59963156886\Desktop\BackEnd\Foreach\Foreach01\obj\Debug\net8.0\refint\Foreach01.dll
+C:\Users\59963156886\Desktop\BackEnd\Foreach\Foreach01\obj\Debug\net8.0\Foreach01.pdb
+C:\Users\59963156886\Desktop\BackEnd\Foreach\Foreach01\obj\Debug\net8.0\Foreach01.genruntimeconfig.cache
+C:\Users\59963156886\Desktop\BackEnd\Foreach\Foreach01\obj\Debug\net8.0\ref\Foreach01.dll
