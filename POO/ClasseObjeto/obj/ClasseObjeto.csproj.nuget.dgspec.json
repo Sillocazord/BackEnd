@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\59963156886\\Desktop\\POO\\ClasseObjeto\\ClasseObjeto.csproj": {}
+    "C:\\Users\\59963156886\\Desktop\\BackEnd\\POO\\ClasseObjeto\\ClasseObjeto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\59963156886\\Desktop\\POO\\ClasseObjeto\\ClasseObjeto.csproj": {
+    "C:\\Users\\59963156886\\Desktop\\BackEnd\\POO\\ClasseObjeto\\ClasseObjeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\59963156886\\Desktop\\POO\\ClasseObjeto\\ClasseObjeto.csproj",
+        "projectUniqueName": "C:\\Users\\59963156886\\Desktop\\BackEnd\\POO\\ClasseObjeto\\ClasseObjeto.csproj",
         "projectName": "ClasseObjeto",
-        "projectPath": "C:\\Users\\59963156886\\Desktop\\POO\\ClasseObjeto\\ClasseObjeto.csproj",
+        "projectPath": "C:\\Users\\59963156886\\Desktop\\BackEnd\\POO\\ClasseObjeto\\ClasseObjeto.csproj",
         "packagesPath": "C:\\Users\\59963156886\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\59963156886\\Desktop\\POO\\ClasseObjeto\\obj\\",
+        "outputPath": "C:\\Users\\59963156886\\Desktop\\BackEnd\\POO\\ClasseObjeto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\59963156886\\AppData\\Roaming\\NuGet\\NuGet.Config",
