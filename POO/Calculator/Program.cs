@@ -6,6 +6,7 @@ Console.WriteLine("Nos informe o primeiro numero.");
 
 Calculadora digito1 = new Calculadora();
 Calculadora digito2 = new Calculadora();
+Calculadora results = new Calculadora();
 
 digito1.numero1 = float.Parse(Console.ReadLine()!);
 
@@ -13,15 +14,16 @@ Console.WriteLine($"Informe o segundo numero.");
 
 digito2.numero2 = float.Parse(Console.ReadLine()!);
 
-Console.WriteLine($"Agora selecione a operaçaõ.(somar,subtrair,multiplicar,dividir)");
+Console.WriteLine(@$"Agora selecione a operaçaõ.
+-1 Somar.
+-2 Subtrair.
+-3 Multiplicar
+-4 Dividir.
+");
 string operation = Console.ReadLine()!;
-if (operation == "somar")
+if (operation == "1")
 {
-    Calculadora operatio = new Calculadora();
-    operatio.Somar();
-    Console.WriteLine(@$"Exibindo resultados...
-    {operatio.Somar}
-    ");
+    operation.Somar(digito1, digito2);
 }
 
 
