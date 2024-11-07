@@ -20,16 +20,12 @@ O_Dataminer.IA = Console.ReadLine()!;
 Console.WriteLine($"Exibindo dados...");
 Console.WriteLine($"");
 
-Console.WriteLine($"{O_Dataminer.Nome}");
-Console.WriteLine($"{O_Dataminer.Idade}");
-Console.WriteLine($"{O_Dataminer.Armadura}");
-Console.WriteLine($"{O_Dataminer.IA}");
+Console.WriteLine($"Nome: {O_Dataminer.Nome}");
+Console.WriteLine($"Idade: {O_Dataminer.Idade}");
+Console.WriteLine($"Armadura: {O_Dataminer.Armadura}");
+Console.WriteLine($"IA que o acompanha: {O_Dataminer.IA}");
 Console.WriteLine($"");
 Console.WriteLine($"");
-
-
-
-
 
 Console.WriteLine($@"Escolha uma ação:
 1- Atacar

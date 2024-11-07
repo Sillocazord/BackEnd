@@ -1,0 +1,15 @@
+C:\Users\59963156886\Desktop\BackEnd\POO\Games\obj\Debug\net8.0\Games.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\59963156886\Desktop\BackEnd\POO\Games\obj\Debug\net8.0\Games.AssemblyInfoInputs.cache
+C:\Users\59963156886\Desktop\BackEnd\POO\Games\obj\Debug\net8.0\Games.AssemblyInfo.cs
+C:\Users\59963156886\Desktop\BackEnd\POO\Games\obj\Debug\net8.0\Games.csproj.CoreCompileInputs.cache
+C:\Users\59963156886\Desktop\BackEnd\POO\Games\obj\Debug\net8.0\Games.sourcelink.json
+C:\Users\59963156886\Desktop\BackEnd\POO\Games\bin\Debug\net8.0\Games.exe
+C:\Users\59963156886\Desktop\BackEnd\POO\Games\bin\Debug\net8.0\Games.deps.json
+C:\Users\59963156886\Desktop\BackEnd\POO\Games\bin\Debug\net8.0\Games.runtimeconfig.json
+C:\Users\59963156886\Desktop\BackEnd\POO\Games\bin\Debug\net8.0\Games.dll
+C:\Users\59963156886\Desktop\BackEnd\POO\Games\bin\Debug\net8.0\Games.pdb
+C:\Users\59963156886\Desktop\BackEnd\POO\Games\obj\Debug\net8.0\Games.dll
+C:\Users\59963156886\Desktop\BackEnd\POO\Games\obj\Debug\net8.0\refint\Games.dll
+C:\Users\59963156886\Desktop\BackEnd\POO\Games\obj\Debug\net8.0\Games.pdb
+C:\Users\59963156886\Desktop\BackEnd\POO\Games\obj\Debug\net8.0\Games.genruntimeconfig.cache
+C:\Users\59963156886\Desktop\BackEnd\POO\Games\obj\Debug\net8.0\ref\Games.dll
