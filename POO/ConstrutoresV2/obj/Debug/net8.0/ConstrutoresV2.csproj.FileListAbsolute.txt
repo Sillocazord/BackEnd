@@ -1,0 +1,15 @@
+C:\Users\59963156886\Desktop\BackEnd\POO\ConstrutoresV2\bin\Debug\net8.0\ConstrutoresV2.exe
+C:\Users\59963156886\Desktop\BackEnd\POO\ConstrutoresV2\bin\Debug\net8.0\ConstrutoresV2.deps.json
+C:\Users\59963156886\Desktop\BackEnd\POO\ConstrutoresV2\bin\Debug\net8.0\ConstrutoresV2.runtimeconfig.json
+C:\Users\59963156886\Desktop\BackEnd\POO\ConstrutoresV2\bin\Debug\net8.0\ConstrutoresV2.dll
+C:\Users\59963156886\Desktop\BackEnd\POO\ConstrutoresV2\bin\Debug\net8.0\ConstrutoresV2.pdb
+C:\Users\59963156886\Desktop\BackEnd\POO\ConstrutoresV2\obj\Debug\net8.0\ConstrutoresV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\59963156886\Desktop\BackEnd\POO\ConstrutoresV2\obj\Debug\net8.0\ConstrutoresV2.AssemblyInfoInputs.cache
+C:\Users\59963156886\Desktop\BackEnd\POO\ConstrutoresV2\obj\Debug\net8.0\ConstrutoresV2.AssemblyInfo.cs
+C:\Users\59963156886\Desktop\BackEnd\POO\ConstrutoresV2\obj\Debug\net8.0\ConstrutoresV2.csproj.CoreCompileInputs.cache
+C:\Users\59963156886\Desktop\BackEnd\POO\ConstrutoresV2\obj\Debug\net8.0\ConstrutoresV2.sourcelink.json
+C:\Users\59963156886\Desktop\BackEnd\POO\ConstrutoresV2\obj\Debug\net8.0\ConstrutoresV2.dll
+C:\Users\59963156886\Desktop\BackEnd\POO\ConstrutoresV2\obj\Debug\net8.0\refint\ConstrutoresV2.dll
+C:\Users\59963156886\Desktop\BackEnd\POO\ConstrutoresV2\obj\Debug\net8.0\ConstrutoresV2.pdb
+C:\Users\59963156886\Desktop\BackEnd\POO\ConstrutoresV2\obj\Debug\net8.0\ConstrutoresV2.genruntimeconfig.cache
+C:\Users\59963156886\Desktop\BackEnd\POO\ConstrutoresV2\obj\Debug\net8.0\ref\ConstrutoresV2.dll
