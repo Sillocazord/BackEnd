@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace PilaresPOO.Classes.Aprendizagem
 {
-    public class Veiculos
+    public abstract class Veiculos
     {
         public string marca = "";
 

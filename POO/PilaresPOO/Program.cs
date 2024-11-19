@@ -1,19 +1,14 @@
-﻿
-using PilaresPOO.Classes.Aprendizagem;
+﻿using PilaresPOO.Classes.Pilares;
 
-Carro carro = new Carro();
+Console.Clear();
+ContaCorrente ctEdu = new ContaCorrente();
+ctEdu.titular = "Eduardo Mendes da Costa";
+ctEdu.Depositar(1000000f);
 
-carro.marca = "Nissan";
-carro.modelo = "Skyline";
-carro.cor = "Roxo";
-carro.potencia = 150;//horses de potencia
-carro.qtdPortas= 3;
-Console.WriteLine($"HIHIHIHA");
-Console.WriteLine(@$"
-Marca: {carro.marca}
-Modelo: {carro.modelo}
-Cor: {carro.cor}
-Potencia: {carro.potencia}
-Quantidade de portas: {carro.qtdPortas}
-");
-carro.Ligar();
+Console.WriteLine($"Titular da conta: {ctEdu.titular}");
+Console.WriteLine($"Saldo da conta: {ctEdu.getSaldo()}");
+
+float valorSacado = ctEdu.Sacar(1200f);
+
+Console.WriteLine($"Valor do saque:{valorSacado}");
+Console.WriteLine($"Novo saldo: {ctEdu.getSaldo()}");

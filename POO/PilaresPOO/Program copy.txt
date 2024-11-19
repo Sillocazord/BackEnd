@@ -1,0 +1,122 @@
+﻿// //***Heranças e abstracao***
+
+// using PilaresPOO.Classes.Aprendizagem;
+
+// Console.WriteLine($"Ayo Whats Up MY Hommie");
+// //Heranca
+// //Abstracao
+// //Encapsulamento
+// //Polimorfismo
+
+// Pessoa joao = new Aluno();
+// joao.nome = "joao";
+// joao.idade = 18;
+// joao.cpf = "599.298.249.86";
+// joao.peso = 80;
+// joao.altura = 195;
+
+// Console.WriteLine(@$" Exibindo dados da pessoa...
+
+// {joao.nome}
+// {joao.idade}
+// {joao.cpf}
+// {joao.peso}
+// {joao.altura}");
+// Console.WriteLine($"");
+
+
+// Aluno isaac = new Aluno();
+// isaac.matricula = 12345;
+// isaac.curso = "Dev";
+// isaac.media = 10;
+// isaac.nome = "Isaac";
+// isaac.idade = 17;
+// isaac.cpf = "584.390.298.86";
+// isaac.peso = 70;
+// isaac.altura = 195;
+
+
+// Console.WriteLine(@$"Exibindo dados do aluno...
+// Nome: {isaac.nome}
+// Idade:{isaac.idade}
+// CPF: {isaac.cpf}
+// Peso: {isaac.peso}
+// Altura: {isaac.altura}
+// Matrícula: {isaac.matricula}
+// Curso: {isaac.curso}
+// Média: {isaac.media}
+
+// ");
+// Console.WriteLine($"");
+
+
+// Professor sam = new Professor();
+
+// sam.nome = "Samantha";
+// sam.idade = 22;
+// sam.cpf = " 485.483.349.86";
+// //sam.peso = 60 ;
+// //sam.altura = 160;
+// //sam.NIF = 000000000;
+// //sam.salario = 5000;
+
+//Console.WriteLine(@$"Exibindo dados do aluno...
+//Nome: {sam.nome}
+//Idade:{sam.idade}
+//CPF: {sam.cpf}
+///Peso: {sam.peso}
+//Altura: {sam.altura}
+//NIF: {sam.NIF}
+//Salario: {sam.salario}
+//");
+
+//Veiculo
+//marca, modelo, cor, potencia, qtdPortas
+//metodos
+//Ligar,Desligar, buzina
+//carro e aviao tem porta, moto nao
+//concreto hihihihihihihihihihihihihihihiHA
+
+//***
+// using PilaresPOO.Classes.Aprendizagem;
+
+// Carro carro = new Carro();
+
+// carro.marca = "Nissan";
+// carro.modelo = "Skyline";
+// carro.cor = "Roxo";
+// carro.potencia = 150;//horses de potencia
+// carro.qtdPortas= 3;
+// Console.WriteLine($"HIHIHIHA");
+// Console.WriteLine(@$"
+// Marca: {carro.marca}
+// Modelo: {carro.modelo}
+// Cor: {carro.cor}
+// Potencia: {carro.potencia}
+// Quantidade de portas: {carro.qtdPortas}
+// ");
+// carro.Ligar();
+
+//***POLIMORFISMO***
+
+using PilaresPOO.Classes.Aprendizagem;
+Console.Clear();
+
+PowerGeneric PersonagemGenerico = new PowerGeneric();
+PersonagemGenerico.Atacar();
+Console.WriteLine($"");
+
+
+Mago personagemMago = new Mago();
+personagemMago.Atacar();
+Console.WriteLine($"");
+
+
+Guerreiro personagemGuerreiro = new Guerreiro();
+personagemGuerreiro.Atacar();
+Console.WriteLine($"");
+
+
+Arqueiro personagemArqueiro = new Arqueiro();
+personagemArqueiro.Atacar();
+Console.WriteLine($"");
